@@ -28,6 +28,11 @@ nav a {
     text-decoration: none;
 }
 
+.products l{
+    width: 940px;
+    margin: o auto;
+}
+
 .products li {
     display: inline-block;
 }
